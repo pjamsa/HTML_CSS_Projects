@@ -4,10 +4,10 @@ This is a folder of projects I created using HTML and CSS.
 
 Using these languages I created:
 
-A website for a movie theater
+1) Movie Theater Showtimes page
 
-A personal page for my music
+2) Animal Shelter Adoption Webpage
 
-An animal shelter website
+3) Welcome Page for Portfolio
 
-And a welcome/contact page for my Portfolio
+4) Music Home Page
