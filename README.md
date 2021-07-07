@@ -20,7 +20,7 @@ This project features HTML and CSS to create a mock website for an animal shelte
 This project features HTML, CSS, and JavaScript to create a functional portfolio to display skills and projects to employers.
 
 <h2>Music Page</h2>
-
+I created a personal site with HTML and CSS where fans can stream my music as well as stay updated on news concerning my music.  
 
 
 
