@@ -1,13 +1,27 @@
-# HTML_CSS_Projects
+<h1>HTML And CSS Projects</h1>
 
-This is a folder of projects I created using HTML and CSS.
+These are some basic projects I have created with HTML and CSS.
 
-Using these languages I created:
+<h2>Projects:</h2>
+<ul>
+  <li>Movie Theater Showtimes Page</li>
+  <li>Animal Shelter Adoption Page</li>
+  <li>Launch Page for Personal Portfolio</li>
+  <li>Music Home Page</li>
+</ul>
 
-1) Movie Theater Showtimes Page
+<h2>Movie Theater Showtimes Page</h2>
+In this project I used HTML, CSS, and Bootstrap elements to create a home page for a Movie Theater to display showtimes.
 
-2) Animal Shelter Adoption Webpage
+<h2>Animal Shelter Adoption Page</h2>
+This project features HTML and CSS to create a mock website for an animal shelter looking for humans to adopt cute furry creatures.  
 
-3) Launch Page for Portfolio
+<h2>Personal Portfolio</h2> 
+This project features HTML, CSS, and JavaScript to create a functional portfolio to display skills and projects to employers.
 
-4) Music Home Page
+<h2>Music Page</h2>
+
+
+
+
+
