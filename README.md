@@ -11,7 +11,7 @@ These are some basic projects I have created with HTML and CSS.
 </ul>
 
 <h2>Movie Theater Showtimes Page</h2>
-In this project I used HTML, CSS, and Bootstrap elements to create a home page for a Movie Theater to display showtimes.
+In this project I used HTML, CSS, and Bootstrap library to create a home page for a Movie Theater to display showtimes.
 
 <h2>Animal Shelter Adoption Page</h2>
 This project features HTML and CSS to create a mock website for an animal shelter looking for humans to adopt cute furry creatures.  
